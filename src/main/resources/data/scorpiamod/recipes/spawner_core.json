@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "scorpiamod:dragon_fragment"
+    },
+    "Y": {
+      "item": "minecraft:lodestone"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "XYX",
+    "XXX"
+  ],
+  "result": {
+    "item": "scorpiamod:spawner_core"
+  }
+}

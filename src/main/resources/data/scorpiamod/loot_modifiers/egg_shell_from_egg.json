@@ -1,0 +1,10 @@
+{
+  "type": "scorpiamod:add_item",
+  "conditions": [
+    {
+      "condition": "minecraft:projectile_hit",
+      "entity": "this"
+    }
+  ],
+  "item": "minecraft:egg"
+}

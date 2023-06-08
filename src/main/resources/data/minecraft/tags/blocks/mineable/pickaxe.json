@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "scorpiamod:harden_endstone",
+    "scorpiamod:dragon_ore",
+    "scorpiamod:dragon_block",
+    "scorpiamod:dragon_bars",
+    "scorpiamod:grinding_station"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "scorpiamod:grinding",
+  "ingredients": [
+    {
+      "item": "scorpiamod:dragon_shell"
+    }
+  ],
+  "output": {
+    "item": "scorpiamod:dragon_leather"
+  }
+}

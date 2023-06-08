@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:player_head",
+      "count": 16
+    },
+    "S": {
+      "item": "scorpiamod:egg_shell"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "S#S",
+    "SSS"
+  ],
+  "result": {
+    "item": "minecraft:villager_spawn_egg"
+  }
+}

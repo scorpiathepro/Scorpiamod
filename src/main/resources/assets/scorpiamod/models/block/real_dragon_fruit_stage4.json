@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "scorpiamod:block/real_dragon_fruit_stage4"
+  }
+}

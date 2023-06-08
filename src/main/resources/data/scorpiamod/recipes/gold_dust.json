@@ -1,0 +1,11 @@
+{
+  "type": "scorpiamod:grinding",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "output": {
+    "item": "scorpiamod:gold_dust"
+  }
+}

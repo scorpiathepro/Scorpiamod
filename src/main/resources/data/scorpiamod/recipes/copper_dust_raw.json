@@ -1,0 +1,11 @@
+{
+  "type": "scorpiamod:grinding",
+  "ingredients": [
+    {
+      "item": "minecraft:raw_copper"
+    }
+  ],
+  "output": {
+    "item": "scorpiamod:copper_dust"
+  }
+}

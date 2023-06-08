@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "entries": [
+    "scorpiamod:spawner_bars_from_spawner",
+    "scorpiamod:dragon_shell_from_dragon",
+    "scorpiamod:egg_shell_from_egg"
+  ]
+}

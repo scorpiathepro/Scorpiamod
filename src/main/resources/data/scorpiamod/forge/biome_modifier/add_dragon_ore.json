@@ -1,0 +1,7 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_end",
+  "features": "scorpiamod:dragon_ore_placed",
+  "step": "underground_ores"
+}
+

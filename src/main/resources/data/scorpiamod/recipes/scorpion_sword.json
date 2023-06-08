@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "Y": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "X": {
+      "item": "scorpiamod:scorpion_sting"
+    }
+  },
+  "pattern": [
+    "X",
+    "Y",
+    "#"
+  ],
+  "result": {
+    "item": "scorpiamod:scorpion_sword"
+  }
+}

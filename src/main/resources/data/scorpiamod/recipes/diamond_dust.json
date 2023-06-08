@@ -1,0 +1,11 @@
+{
+  "type": "scorpiamod:grinding",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "output": {
+    "item": "scorpiamod:diamond_dust"
+  }
+}

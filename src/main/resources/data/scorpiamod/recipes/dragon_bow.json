@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "scorpiamod:dragon_fragment"
+    },
+    "Y": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    "Y#X",
+    "# X",
+    "Y#X"
+  ],
+  "result": {
+    "item": "scorpiamod:dragon_bow"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "scorpiamod:item/diamond_detector"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [46, 90, 0],
+      "translation": [0, 3.5, -5.25]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [46, -90, 0],
+      "translation": [0, 3.5, -5.25]
+    },
+    "firstperson_righthand": {
+      "rotation": [19, 90, 0],
+      "translation": [0, 0.75, -2.25]
+    },
+    "firstperson_lefthand": {
+      "rotation": [19, -90, 0],
+      "translation": [0, 0.75, -2.25]
+    }
+  }
+}
+

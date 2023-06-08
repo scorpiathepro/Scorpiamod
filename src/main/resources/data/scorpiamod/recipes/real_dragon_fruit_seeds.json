@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:chorus_fruit"
+    },
+    {
+      "item": "scorpiamod:dragon_fragment"
+    },
+    {
+      "item": "scorpiamod:dragon_fragment"
+    }
+  ],
+  "result": {
+    "item": "minecraft:netherite_ingot"
+  }
+}

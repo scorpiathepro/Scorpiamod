@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "scorpiamod:iron_dust",
+      "count": 4
+    },
+    "Y": {
+      "item": "minecraft:iron_block"
+    },
+    "Z": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "Z  ",
+    " ZY",
+    " YX"
+  ],
+  "result": {
+    "item": "scorpiamod:iron_detector"
+  }
+}

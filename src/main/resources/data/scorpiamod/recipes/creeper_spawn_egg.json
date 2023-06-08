@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:creeper_head"
+    },
+    "S": {
+      "item": "scorpiamod:egg_shell"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "S#S",
+    "SSS"
+  ],
+  "result": {
+    "item": "minecraft:creeper_spawn_egg"
+  }
+}

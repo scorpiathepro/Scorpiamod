@@ -1,0 +1,11 @@
+{
+  "type": "scorpiamod:grinding",
+  "ingredients": [
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "output": {
+    "item": "scorpiamod:egg_shell"
+  }
+}

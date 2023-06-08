@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "scorpiamod:block/dragon_ore"
+  }
+}

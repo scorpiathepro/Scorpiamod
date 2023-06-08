@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "scorpiamod:spawner_core"
+    },
+    "S": {
+      "item": "scorpiamod:spawner_bars"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "S#S",
+    "SSS"
+  ],
+  "result": {
+    "item": "minecraft:spawner"
+  }
+}
